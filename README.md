@@ -1,2 +1,2 @@
 # hello-world
-first try
+im completely new to github as of typing this
